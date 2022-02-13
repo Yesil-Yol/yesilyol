@@ -1,0 +1,36 @@
+name: greenmap
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl:
+  image_picker:
+  http:
+  shared_preferences:
+  dio_http:
+  url_launcher:
+  carousel_pro:
+  pay: 1.0.0
+  numberpicker:
+  google_maps_flutter:
+  flutter_polyline_points:
+  location:
+  tcard:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
