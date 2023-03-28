@@ -6,6 +6,7 @@ Django Rest Framework,Pluginleri ve postgresql database i kurulduktan sonra sist
 - Command Line'ı açınız ve şu kodları giriniz:
 - cd (uygulamanın bulunduğu directory)\greenmap\server
 - python manage.py runserver
+- video link https://github.com/Yesil-Yol/yesilyol/blob/main/yesilyol.mp4
 
 bu kodları yazdıktan sonra serverin aktif hale gelmesi gerekir.
 ------------------- 
